@@ -1,0 +1,5 @@
+model_checkpoint_path: "C:\\Users\\jdh3577\\workspace\\cnn-text-classification-kr\\runs\\1496977045\\checkpoints\\model-400"
+all_model_checkpoint_paths: "C:\\Users\\jdh3577\\workspace\\cnn-text-classification-kr\\runs\\1496977045\\checkpoints\\model-100"
+all_model_checkpoint_paths: "C:\\Users\\jdh3577\\workspace\\cnn-text-classification-kr\\runs\\1496977045\\checkpoints\\model-200"
+all_model_checkpoint_paths: "C:\\Users\\jdh3577\\workspace\\cnn-text-classification-kr\\runs\\1496977045\\checkpoints\\model-300"
+all_model_checkpoint_paths: "C:\\Users\\jdh3577\\workspace\\cnn-text-classification-kr\\runs\\1496977045\\checkpoints\\model-400"
